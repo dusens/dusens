@@ -50,10 +50,15 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Cpp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" />
+<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 <img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" />
 <img align="left" alt="clion" width="26px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
+<img align="left" alt="goland" width="26px" src="https://github.com/aasaam/brand-icons/blob/02e422e70896e28ea4a4941000c491c3cf0dc0ce/svg/si_goland.svg?plain=1" />
+<img align="left" alt="RustRover" width="26px" src="https://github.com/CorentinL5/CorentinL5/blob/35cdb77622662ffb1e86b11a7108271910bbae44/assets/editors/jb-rustrover.svg?plain=1#L4" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
